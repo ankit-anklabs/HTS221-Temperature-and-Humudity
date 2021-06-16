@@ -1,0 +1,10 @@
+HTS221_anklabs.c:12:9:HTS221_Dev_ID	16	static
+HTS221_anklabs.c:19:9:HTS221_Detected	16	static
+HTS221_anklabs.c:29:6:HTS221_I	16	static
+HTS221_anklabs.c:45:6:HTS221_Average_func	16	static
+HTS221_anklabs.c:70:6:HTS221_Start_conversion	8	static
+HTS221_anklabs.c:75:9:HTS221_Data_Ready_T	16	static
+HTS221_anklabs.c:88:9:HTS221_Data_Ready_H	16	static
+HTS221_anklabs.c:101:9:HTS221_Data_Ready	16	static
+HTS221_anklabs.c:113:9:HTS221_Read_temp	40	static
+HTS221_anklabs.c:147:9:HTS221_Read_humi	48	static

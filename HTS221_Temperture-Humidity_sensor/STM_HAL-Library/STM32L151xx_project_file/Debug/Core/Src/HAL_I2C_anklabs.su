@@ -1,0 +1,3 @@
+HAL_I2C_anklabs.c:32:6:HTS221_Write_i2c	32	static
+HAL_I2C_anklabs.c:41:9:HTS221_Read_i2c	32	static
+HAL_I2C_anklabs.c:49:9:HTS221_Read_multi_i2c	48	dynamic
